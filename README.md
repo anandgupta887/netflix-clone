@@ -1,6 +1,6 @@
-For deployed version of this repository [Click here](https://github.com/facebook/create-react-app)
+For deployed version of this repository [Click here](https://netflix-clone-1bfb5.web.app/)
 
-This project was bootstrapped with [Create React App](https://netflix-clone-1bfb5.web.app/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
